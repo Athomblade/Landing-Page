@@ -1,0 +1,143 @@
+body{
+    background-image: linear-gradient(27deg, #09c9d6 0%, #d019c4 100%);
+    
+    margin: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#heads{
+    margin-right: 40px;
+    
+}
+#pagehead{
+    margin-left:100px;
+    margin-right:100px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.a1{
+    margin-right: 15px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #E5E7EB
+}
+
+
+#pagehead2{
+    display: flex;
+    align-items:center;
+    
+    margin:40px 100px ;
+}
+
+#bodypage{
+    background-color: #E5E7EB;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+
+#hero1{
+    font-size: 24px;
+}
+
+#hero2{
+    font-size: 48px;
+    margin-bottom: 0px;
+    font-weight: bolder;
+    
+}
+
+#hero3{
+    
+    font-size: 18px;
+}
+
+#image2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+
+}
+
+#some{
+    margin-top: 70px;
+    text-align: center;
+    font: 36px extra-bold;
+    padding-top: 25px;
+}
+
+.box1{
+    
+    margin: 25px;
+}
+
+#Lorem{
+    font-size: 36px;
+    font-style:italic;
+    
+   
+
+}
+#text1{
+margin: 100px 100px 100px ;
+ text-align: end;
+
+}
+#thor{
+    
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#singup{
+    border-radius: 15px;
+    text-align: center;
+    background-color: #3882f6;
+    margin: auto 80px auto ;
+    color:white;
+}
+#solve{
+    align-items: center;
+}
+
+#copyright{
+    text-align: center;
+    color: #E5E7EB;
+}
+
+button{
+    border-radius: 15px;
+    height: 30px;
+    width: 70px;
+   
+}
+#singup{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+#text2{
+    text-align: left;
+}
+
+#text3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+button:hover{
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+.image3{
+    border-radius: 15px;
+}
