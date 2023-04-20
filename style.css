@@ -44,19 +44,33 @@ body{
 
 #hero1{
     font-size: 24px;
+    font-weight: bolder;
 }
 
 #hero2{
     font-size: 48px;
     margin-bottom: 0px;
     font-weight: bolder;
-    
+    animation: ease 2s;
+    text-shadow: 0 0 5px rgb(251, 6, 6), 0 0 20px rgb(254, 12, 185), 0 0 40px rgb(10, 162, 250) ;
 }
+
 
 #hero3{
     
     font-size: 18px;
 }
+
+img:hover{
+    box-shadow: 0 0 5px rgb(251, 6, 6), 0 0 20px rgb(254, 12, 185), 0 0 40px rgb(10, 162, 250) ;    
+    
+}
+
+img{
+    transition: ease 1s;
+}
+
+
 
 #image2{
     display: flex;
@@ -141,3 +155,9 @@ background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
 .image3{
     border-radius: 15px;
 }
+
+a:hover{
+    color: rgb(13, 208, 202);
+    font-weight: bold;
+}
+
